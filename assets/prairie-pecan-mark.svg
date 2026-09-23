@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Prairie and Pecan mark">
+  <circle cx="32" cy="32" r="31" fill="#173d31"/>
+  <path d="M32 12c-10 7-15 15-15 24 0 10 6 16 15 16s15-6 15-16c0-9-5-17-15-24Z" fill="#d3a64e"/>
+  <path d="M32 18v29M23 28c4 2 8 2 9 2M41 28c-4 2-8 2-9 2" fill="none" stroke="#173d31" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
